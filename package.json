@@ -1,0 +1,12 @@
+{
+  "name": "codeorbit-rest-api",
+  "version": "1.0.0",
+  "description": "Simple REST API for CodeOrbit Tech Full Stack Development Internship Task 3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
